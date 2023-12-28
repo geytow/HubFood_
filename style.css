@@ -127,7 +127,7 @@ nav ul li a:hover {
 .menu-list img {
   border-radius: 50%;
   border: 2px solid black;
-  height: 200px;
+  height: 150px;
   max-width: 150px;
   transition: 0.3s;
 }
